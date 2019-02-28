@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kota">
+        <item>Jakarta Barat</item>
+        <item>Jakarta Pusat</item>
+        <item>Jakarta Selatan</item>
+        <item>Bogor</item>
+        <item>Bandung</item>
+        <item>Yogyakarta</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Kediri</item>
+    </string-array>
+    <string-array name="provinsi">
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+        <item>Lombok</item>
+        <item>Nusa Tenggara Barat</item>
+
+    </string-array>
+</resources>
